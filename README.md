@@ -1,5 +1,5 @@
 
-# Flutter calculator
+# Quality Attributes Plugins
 
 Project made for the Software Architecture course from Master's in Informatics Engineering.  
 This project simulates a webserver, the aim is to create four quality attributes plugins.
